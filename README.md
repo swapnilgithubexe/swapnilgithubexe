@@ -1,7 +1,7 @@
 # Hi, I'm Swapnil Dutta! 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=swapnilgithubexe&show_icons=true&theme=midnight-purple" />
+<img height=400 width=400 src="https://github-readme-stats.vercel.app/api?username=swapnilgithubexe&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img height=400 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilgithubexe&layout=donut-vertical&theme=midnight-purple" />
