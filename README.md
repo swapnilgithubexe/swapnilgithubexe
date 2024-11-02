@@ -1,6 +1,6 @@
 # Hi, I'm Swapnil Dutta! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilgithubexe&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilgithubexe&show_icons=true&theme=blue-green)
 
 ### About Me
 - 🌱 I’m currently learning advanced React and Node.js.
