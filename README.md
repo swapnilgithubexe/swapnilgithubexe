@@ -4,7 +4,7 @@
   <tr>
     <td>
       <a href="https://github.com/swapnilgithubexe/swapnilgithubexe">
-        <img height="300" src="https://github-readme-stats.vercel.app/api?username=swapnilgithubexe&show_icons=true&theme=midnight-purple" />
+        <img height="300" src="https://github-readme-stats.vercel.app/api?username=swapnilgithubexe&show_icons=true&theme=midnight-purple&cache_seconds=7200" />
       </a>
     </td>
     <td>
