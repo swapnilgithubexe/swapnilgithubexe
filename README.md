@@ -3,12 +3,12 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/swapnilgithubexe/swapnilgithubexe">
         <img height="300" src="https://github-readme-stats.vercel.app/api?username=swapnilgithubexe&show_icons=true&theme=midnight-purple" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/convoychat">
+      <a href="https://github.com/swapnilgithubexe?tab=repositories">
         <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilgithubexe&layout=donut-vertical&theme=midnight-purple" />
       </a>
     </td>
