@@ -4,12 +4,12 @@
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="200" src="https://github-readme-stats.vercel.app/api?username=swapnilgithubexe&show_icons=true&theme=midnight-purple" />
+        <img height="300" src="https://github-readme-stats.vercel.app/api?username=swapnilgithubexe&show_icons=true&theme=midnight-purple" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/convoychat">
-        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilgithubexe&layout=donut-vertical&theme=midnight-purple" />
+        <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilgithubexe&layout=donut-vertical&theme=midnight-purple" />
       </a>
     </td>
   </tr>
