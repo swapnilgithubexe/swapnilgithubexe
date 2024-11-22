@@ -12,6 +12,8 @@
         <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilgithubexe&layout=donut-vertical&theme=midnight-purple" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td>
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilgithubexe&" alt="swapnilgithubexe" />
     </td>
