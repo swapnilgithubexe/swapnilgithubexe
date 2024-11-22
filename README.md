@@ -1,5 +1,6 @@
-# Hi, I'm Swapnil Dutta! 👋
 
+<h1 align="center">Hi 👋, I'm Swapnil Dutta</h1>
+<h3 align="center">Software engineer with over 1.5 years of experience, transitioning into full stack development. Proficient in backend technologies like NodeJS, ExpressJS, and MongoDB, with a focus on delivering scalable and efficient solutions.</h3>
 <table>
   <tr>
     <td>
@@ -20,8 +21,6 @@
 </table>
 
 
-<h1 align="center">Hi 👋, I'm Swapnil Dutta</h1>
-<h3 align="center">Software engineer with over 1.5 years of experience, transitioning into full stack development. Proficient in backend technologies like NodeJS, ExpressJS, and MongoDB, with a focus on delivering scalable and efficient solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnilgithubexe" alt="swapnilgithubexe" /></a> </p>
 
