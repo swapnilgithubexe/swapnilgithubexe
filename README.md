@@ -24,7 +24,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnilgithubexe" alt="swapnilgithubexe" /></a> </p>
 
-- 🔭 I’m currently working on [AristoCrat Weave](aristocrat-weave-demo.vercel.app)
+- 🔭 I’m currently working on [AristoCrat Weave](aristocrat-weave-demo.vercel.app) and [StrataGem Studios](https://github.com/swapnilgithubexe/Stratagem-Studio-V1)
 
 - 🌱 I’m currently learning **Next JS**
 
