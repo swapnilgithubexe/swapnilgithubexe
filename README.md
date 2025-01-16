@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Dutta</h1>
 <h3 align="center">Software engineer with over 1.5 years of experience, transitioning into full stack development. Proficient in backend technologies like NodeJS, ExpressJS, and MongoDB, with a focus on delivering scalable and efficient solutions.</h3>
 <p align="center">
-  <img alt="coder" width="1000" height="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img alt="coder" width="1000" height="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif" />
 </p>
 <table>
   <tr>
