@@ -25,8 +25,13 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnilgithubexe" alt="swapnilgithubexe" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=swapnilgithubexe&theme=dark_lover" alt="swapnilgithubexe" />
+  </a> 
+</p>
 <img src="https://www.codetriage.com/nodejs/node/badges/users.svg">
+
 
 
 - 🔭 I’m currently working on [AristoCrat Weave](https://aristocrat-weave-demo.vercel.app) and [StrataGem Studios](https://github.com/swapnilgithubexe/Stratagem-Studio-V1)
