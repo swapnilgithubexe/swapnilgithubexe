@@ -17,10 +17,12 @@
       </a>
     </td>
     <td>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=swapnilgithubexe&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="swapnilgithubexe" />    </td>
+<img height="300" src="https://github-readme-streak-stats-one-gold.vercel.app?user=swapnilgithubexe&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="swapnilgithubexe" />  
+    </td>
   </tr>
   
 </table>
+
 
 
 
