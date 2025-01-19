@@ -17,8 +17,7 @@
       </a>
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilgithubexe&" alt="swapnilgithubexe" />
-    </td>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=swapnilgithubexe&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="swapnilgithubexe" />    </td>
   </tr>
   
 </table>
