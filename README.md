@@ -23,6 +23,94 @@
   
 </table>
 
+# 💼 Skillset Overview
+
+A comprehensive summary of my technical skills, platforms, tools, and frameworks.
+
+---
+
+## 🧠 Programming Languages
+- **Python**
+- **JavaScript**
+- **TypeScript**
+- **SQL**
+
+---
+
+## ⚙️ Backend Technologies
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **Mongoose**
+- **MySQL**
+- **Redis**
+- **JWT (JSON Web Tokens)**
+- **Bcrypt**
+- **Multer**
+- **Swagger (API Documentation)**
+- **Microservices Architecture**
+- **RESTful API Development**
+
+---
+
+## 🎨 Frontend Technologies
+- **React.js**
+- **Redux**
+- **MUI (Material UI)**
+
+---
+
+## ✅ Testing & Development Practices
+- **Unit Testing**
+- **Test-Driven Development (TDD)**
+- **CI/CD (Continuous Integration/Deployment)**
+- **Debugging & Performance Optimization**
+- **Mixed Testing**
+- **Agile Methodologies**
+
+---
+
+## ☁️ DevOps & Cloud Platforms
+- **Microsoft Azure**
+  - Azure Monitor
+  - Azure Fundamentals (AZ-900 Certified)
+  - Azure Management Tools
+  - Azure Security Solutions
+- **Docker**
+
+---
+
+## 🔄 Messaging & Streaming
+- **Kafka** (with **Change Data Capture - CDC**)
+
+---
+
+## 🗄️ Database & Infrastructure Tools
+- **Oracle RAC (Real Application Clusters)**
+- **Oracle Enterprise Manager (OEM)**
+- **Load Balancer Advisor (LBA Monitor)**
+- **Cache Fusion**
+
+---
+
+## 📊 Analytics & Visualization
+- **Power BI**
+- **Google Analytics**
+
+---
+
+## 🛠️ Tools & IDEs
+- **GitHub**
+- **VS Code**
+- **PyCharm**
+- **Postman**
+- **Jupyter Notebook**
+
+---
+
+> ⚡ Always exploring new technologies and expanding my tech stack!
+
+
 
 
 
