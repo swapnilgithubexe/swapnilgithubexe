@@ -120,7 +120,7 @@ A comprehensive summary of my technical skills, platforms, tools, and frameworks
 - **✅ Version Control**
   - Proper usage of Git/GitHub for source code management, including meaningful commit messages and branching strategies.
 
--**🔲 Unit/Integration Testing**
+- **🔲 Unit/Integration Testing**
   - Going beyond just writing tests — aiming for code coverage, assertions, and edge case handling to ensure robustness.
 
 ---
