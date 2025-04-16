@@ -49,8 +49,8 @@ A comprehensive summary of my technical skills, platforms, tools, and frameworks
 - **RESTful API Development**
 - **Extras**
   -🔲 Rate Limiting / CORS Handling (using helmet, cors, express-rate-limit)
-  -🔲 Email Services – Though you’ve used NodeMailer, maybe mention it more clearly in context of production setup
-  -🔲 Validation Middleware – e.g., Joi, express-validator
+  -🔲 Email Services – Used NodeMailer for password reset
+  -🔲 Validation Middleware – Express-validator
 
 ---
 
@@ -113,6 +113,18 @@ A comprehensive summary of my technical skills, platforms, tools, and frameworks
 - **Jupyter Notebook**
 
 ---
+## 🧠 Soft Skills & Extras
+- **✅ Better Documentation**
+  - Comprehensive and clear documentation using tools like Swagger for APIs and detailed README files for project clarity.
+
+- **✅ Version Control**
+  - Proper usage of Git/GitHub for source code management, including meaningful commit messages and branching strategies.
+
+-**🔲 Unit/Integration Testing**
+  - Going beyond just writing tests — aiming for code coverage, assertions, and edge case handling to ensure robustness.
+
+---
+
 **Currently Working On...**
   - 🔲 GraphQL
   - 🔲 Sequelize
