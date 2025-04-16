@@ -40,9 +40,6 @@ A comprehensive summary of my technical skills, platforms, tools, and frameworks
 ## ⚙️ Backend Technologies
 - **Node.js**
 - **Express.js**
-- **MongoDB**
-- **Mongoose**
-- **MySQL**
 - **Redis**
 - **JWT (JSON Web Tokens)**
 - **Bcrypt**
@@ -50,30 +47,47 @@ A comprehensive summary of my technical skills, platforms, tools, and frameworks
 - **Swagger (API Documentation)**
 - **Microservices Architecture**
 - **RESTful API Development**
+- **Extras**
+  -🔲 Rate Limiting / CORS Handling (using helmet, cors, express-rate-limit)
+  -🔲 Email Services – Though you’ve used NodeMailer, maybe mention it more clearly in context of production setup
+  -🔲 Validation Middleware – e.g., Joi, express-validator
 
 ---
 
 ## 🎨 Frontend Technologies
 - **React.js**
+  - 🔲 React Router (for routing/navigation)
+  -🔲 React Testing (Jest + React Testing Library)
 - **Redux**
 - **MUI (Material UI)**
+- **HTML & CSS**
+
+  ---
+
+## 🗄️ Database & Infrastructure Tools
+- **Oracle RAC (Real Application Clusters)**
+- **Oracle Enterprise Manager (OEM)**
+- **Load Balancer Advisor (LBA Monitor)**
+- **Cache Fusion**
+- **MongoDB**
+- **Mongoose**
+- **MySQL**
 
 ---
 
 ## ✅ Testing & Development Practices
 - **Unit Testing**
-- **Test-Driven Development (TDD)**
+- **Integration Testing**
 - **CI/CD (Continuous Integration/Deployment)**
 - **Debugging & Performance Optimization**
-- **Mixed Testing**
 - **Agile Methodologies**
 
 ---
 
 ## ☁️ DevOps & Cloud Platforms
-- **Microsoft Azure**
+- **Microsoft Azure(By Capgemini Programs)**
   - Azure Monitor
-  - Azure Fundamentals (AZ-900 Certified)
+  - Azure Fundamentals
   - Azure Management Tools
   - Azure Security Solutions
 - **Docker**
@@ -82,14 +96,6 @@ A comprehensive summary of my technical skills, platforms, tools, and frameworks
 
 ## 🔄 Messaging & Streaming
 - **Kafka** (with **Change Data Capture - CDC**)
-
----
-
-## 🗄️ Database & Infrastructure Tools
-- **Oracle RAC (Real Application Clusters)**
-- **Oracle Enterprise Manager (OEM)**
-- **Load Balancer Advisor (LBA Monitor)**
-- **Cache Fusion**
 
 ---
 
@@ -107,6 +113,9 @@ A comprehensive summary of my technical skills, platforms, tools, and frameworks
 - **Jupyter Notebook**
 
 ---
+**Currently Working On...**
+  - 🔲 GraphQL
+  - 🔲 Sequelize
 
 > ⚡ Always exploring new technologies and expanding my tech stack!
 
