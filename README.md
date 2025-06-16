@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Swapnil Dutta</h1>
-<h3 align="center">Software engineer with over 2.5 years of experience, transitioning into full stack development. Proficient in backend technologies like NodeJS, ExpressJS, and MongoDB, with a focus on delivering scalable and efficient solutions.</h3>
+<h3 align="center">Software engineer with over 2.5 years of experience, transitioning into full stack development. Proficient in backend and frontend technologies like NodeJS, ExpressJS, ReactJS, Redux, Redis and MongoDB, with a focus on delivering scalable solutions.</h3>
 <p align="center">
   <img alt="coder" width="1000" height="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif" />
 </p>
