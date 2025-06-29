@@ -85,6 +85,10 @@ A comprehensive summary of my technical skills, platforms, tools, and frameworks
 ---
 
 ## ☁️ DevOps & Cloud Platforms
+ - **Process Management: PM2 (cluster mode, ecosystem configs, log management, deployment)**
+ - **Web Server Configuration: Nginx as reverse proxy for Node.js apps**
+ - **Performance: Load testing with autocannon, Node.js clustering, Transform Streams for memory-efficient processing**
+
 - **Microsoft Azure(By Capgemini Programs)**
   - Azure Monitor
   - Azure Fundamentals
